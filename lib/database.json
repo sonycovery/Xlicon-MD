@@ -1,0 +1,20 @@
+{
+  "sticker": {},
+  "database": {},
+  "game": {},
+  "others": {
+    "vote": []
+  },
+  "users": {
+    "6281293836868@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": ""
+    }
+  },
+  "chats": {
+    "6281293836868@s.whatsapp.net": {
+      "mute": false,
+      "wame": false
+    }
+  }
+}
